@@ -1,6 +1,5 @@
 # **WazeGrow: Predicting and Preventing User Churn for Waze**
 
-![Project Banner](path/to/banner_image.jpg)  
 *Using Data Science to Drive Retention and Growth*
 
 ---
