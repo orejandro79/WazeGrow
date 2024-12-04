@@ -14,7 +14,6 @@
 - [Features](#features)
 - [Data](#data)
 - [Tools and Technologies](#tools-and-technologies)
-- [Setup Instructions](#setup-instructions)
 - [Methodology](#methodology)
 - [Results](#results)
 - [Contributors](#contributors)
