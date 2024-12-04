@@ -49,3 +49,29 @@
 - **Visualization Tools**: Tableau, Matplotlib, Seaborn
 - **Modeling**: Logistic Regression, Random Forest, and other algorithms
 - **Project Management**: PACE Framework
+
+---
+
+## **Methodology: PACE Framework**
+1. **Plan**: Drafted a project roadmap using the PACE framework to outline milestones and tasks.
+2- **Analyze**: Conducted EDA and data cleaning to identify trends and correlations.
+3. **Construct**: Built and validated machine learning models to predict churn.
+4. **Execute**: Evaluated the model’s performance and created dashboards and visualizations in Tableau.
+
+---
+
+## **Expected Results**
+- Achieved 85% model accuracy in predicting churn.
+- Identified key factors influencing churn, such as engagement frequency and app feature usage.
+- Developed actionable strategies for user retention based on insights.
+- Created interactive Tableau dashboards for non-technical stakeholders.
+
+---
+
+## **Contributors**
+- **Jaime Orejarena**: Lead Data Scientist and Repository Maintainer
+
+---
+
+## **Contact**
+For questions, suggestions, or collaboration, please reach out to **Jaime Orejarena** at orejarenajaime1979@gmail.com
